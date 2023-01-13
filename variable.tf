@@ -11,3 +11,4 @@ variable "access_key" {
 variable "secret_key" {
 	description = "secret_key of aws-user"
 	default = "uaIYwzYm0sh6WtEEtRvfzDwErL+cupMtpvn5Lp8a"
+}
