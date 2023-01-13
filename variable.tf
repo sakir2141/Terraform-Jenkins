@@ -5,7 +5,7 @@ variable "aws_region" {
 
 variable "access_key" {
 	description = "access_key of aws-user"
-	default = "AKIAR2VHO27VZMADXZAH"
+	default = "AKIAR2VHO27VXFUW6NH6"
 }
 
 variable "secret_key" {
