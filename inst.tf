@@ -5,7 +5,7 @@ provider "aws" {
 }
 
 resource "aws_instance" "DevOps" {
-  ami           = "ami-0b5eea76982371e91"
+  ami           = "ami-0cca134ec43cf708f"
   instance_type = "t2.micro"
 
   tags = {
